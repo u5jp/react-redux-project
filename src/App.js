@@ -6,6 +6,7 @@ const App = () => (<Counter></Counter>)
 //   return <Counter></Counter>
 // }
 
+
 class Counter extends Component {
   constructor(props){
     super(props)
