@@ -21,6 +21,7 @@ class Counter extends Component {
     this.setState({count:this.state.count-1})
   }
 
+  
   render() {
     // console.log("render")
     return (
