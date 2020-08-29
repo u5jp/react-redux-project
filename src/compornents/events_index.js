@@ -22,7 +22,7 @@ class EventsIndex extends Component {
       </tr>
     ))
   }
-  
+
 
   render() {
     return (
